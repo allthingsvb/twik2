@@ -5,6 +5,8 @@ The hex files listed is to facilitate user to quickly start on your own.
 To use one of these hex files, you'll an ICSP hardware programmer like the PICKit3 from Microchip.
 
 
+
+-------------------
 **CKPic32mx1_28_08M_40MIPS_vB01.hex**
 
 This firmware is for the PIC32MX1XX series.
@@ -17,7 +19,7 @@ Serial communication using UART1 with the following pin configuration:
 * The LED indicator in connected to RB12
 
 
-
+-------------------
 **CKPic32mx2_28_08M_40MIPS_vB01.hex**
 
 This firmware is for the PIC32MX2XX series with 28 pin package.
@@ -29,7 +31,7 @@ Serial communication using UART1 with the following pin configuration:
 * The LED indicator in connected to RB5
 
 
-
+-------------------
 **CKPic32mx2_44_08M_40MIPS_vB01.hex**
 
 This firmware is for the PIC32MX1XX series with 44 pin package.
