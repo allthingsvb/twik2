@@ -14,7 +14,7 @@ Rx at RB13
 Ack at RB7
 The LED indicator in connected to 
 '''
-__________________________________________________________________
+
 
 **CKPic32mx2_28_08M_40MIPS_vB01.hex**
 This firmware is for the PIC32MX2XX series with 28 pin package.
@@ -25,7 +25,7 @@ Rx at RB13
 Ack at RB7
 The LED indicator in connected to RB5
 '''
-__________________________________________________________________
+
 
 **CKPic32mx2_44_08M_40MIPS_vB01.hex**
 This firmware is for the PIC32MX1XX series with 44 pin package.
@@ -37,4 +37,4 @@ Ack at RB7
 The LED indicator in connected to RA10
 Optional 2 push buttons at RA7 and RC3
 '''
-__________________________________________________________________
+
