@@ -23,6 +23,7 @@ Serial communication using UART1 with the following pin configuration:
 **CKPic32mx2_28_08M_40MIPS_vB01.hex**
 
 This firmware is for the PIC32MX2XX series with 28 pin package.
+
 Serial communication using UART1 with the following pin configuration:
 
 * Tx at RB15
